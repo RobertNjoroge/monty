@@ -4,8 +4,11 @@ Read or watch:
 
 Google
 How do I use extern to share variables between source files in C?
+
 Stacks and Queues in C
+
 Stack operations
+
 Queue operations
 
 Learning Objectives
